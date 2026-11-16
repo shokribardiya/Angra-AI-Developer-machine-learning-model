@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 ANGRA 5 - single-file neural lab (numpy only).
 
